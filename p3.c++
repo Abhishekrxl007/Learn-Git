@@ -2,9 +2,9 @@
 using namespace std;
 int main()
 {
-	int a = 10;
-	int b = 30;
-	int sum = a + b;
-	cout<<sum;
+	int a = 5;
+	int b = 3;
+	int multiply = a * b;
+	cout<<multiply;
 	return 0;
 }
